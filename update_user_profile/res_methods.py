@@ -757,3 +757,4 @@ class BaseQueries():
                                                     FROM soc_accounts
                                                     WHERE type = 'GoLogin2'
                                                      ORDER BY use_date DESC LIMIT 1""")[0][0]
+    
