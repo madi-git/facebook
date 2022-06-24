@@ -239,4 +239,3 @@ class Queries():
 
     def updating(self, query):
         db1.q("imasv2", 'update', query)
-
