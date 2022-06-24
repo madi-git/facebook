@@ -119,4 +119,3 @@ class DB:
         finally:
             cur.close()
             conn.close()
-
